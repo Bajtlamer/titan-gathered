@@ -1,0 +1,14 @@
+## Interface: 80000
+## Title: Titan Panel [|cffeda55fGathered|r] |cff00aa004.3.50.80000|r
+## Notes: Tracking materials and trade items in your bags and bank.
+## Version: 4.3.50
+## X-Date: 2018-08-27
+## Author: bajtlamer@gmail.com / Czechia.
+## SavedVariables: GatheredArray
+## OptionalDeps:
+## Dependencies: Titan
+## Revision: $Rev: 50 $
+## Version: 4.3.50.80000
+
+
+TitanGathered.xml
